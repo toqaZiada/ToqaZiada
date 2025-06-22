@@ -31,14 +31,6 @@ Here are a few highlights from my portfolio:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toqaZiada&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqaZiada&layout=compact&theme=radical" height="160"/>
-</p>
-
----
 
 ### 📬 Contact Me
 
