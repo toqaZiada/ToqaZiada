@@ -44,4 +44,4 @@ Here are a few highlights from my portfolio:
 
 - 📧 Email: toqa906@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/toqa-hassan-21692717b)  
-- 📌 Portfolio in progress
+
